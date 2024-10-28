@@ -1,0 +1,36 @@
+.announcement-left {    
+    background: linear-gradient(rgba(0, 0, 0, 0.493), rgba(0, 0, 0, 0.5)), url('../assets/Desktop.webp') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.announcement-right {
+    background: linear-gradient(rgba(0, 0, 0, 0.493), rgba(0, 0, 0, 0.5)), url('../assets/1.Cover.webp') no-repeat center center;    
+    background-size: cover;
+    height: 100vh;
+}
+
+.text-light {
+    color: #ffffff;
+}
+
+.quote {
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.hashtag {
+    font-family: inherit;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.btn-outline-light {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.btn-outline-light:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
